@@ -1,0 +1,56 @@
+ol>li{
+	color:black;
+	font-weight:bolder;
+	background:yellow;
+	border-radius:5px;
+	list-style: none;
+	display:inline-block;
+	height:auto;
+	width:100px auto;
+	display:inline-block;
+	margin:10px;
+	padding:20px;
+	font-size:21px;
+	font-family:sans-serif;
+	text-align:center;
+}
+.h{
+	width:100%;
+	text-align:center;
+	display:flex;
+	flex-direction: row;
+}
+.h>h1{
+	padding:5px;
+	margin:10px;
+}
+textarea:focus, input:focus{
+    outline: none;
+}
+.search{
+	text-align:center;
+	
+}
+input{
+	padding:10px;
+	border-radius:5px;
+	border:2px solid black;
+	color:black;
+}
+button{
+	margin:10px;
+	padding:10px;
+	width:80px;
+	background:black;
+	color:white;
+	border-radius:4px;
+	border:none;
+}
+button:hover{
+	border-radius:10px;
+}
+h1{
+	font-size:42px;
+	font-family:Reem kufi;
+
+}
